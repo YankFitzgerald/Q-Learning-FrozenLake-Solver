@@ -29,10 +29,12 @@ The Q-Learning Frozen Lake Solver successfully demonstrates the application of Q
 
 ### Usage
 
-Install OpenAI gym (pip or conda)
+> OpenAI gym is no longer compatible with this project. We've implemented the FrozenLake environment from scratch.
 
-- `pip install gym`
-- `conda install -c conda-forge gym`
+~~Install OpenAI gym (pip or conda)~~
+
+- ~~`pip install gym`~~
+- ~~`conda install -c conda-forge gym`~~
 
 Install seaborn (pip or conda)
 
